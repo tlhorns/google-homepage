@@ -1,0 +1,33 @@
+body{
+	margin: 0;
+	padding: 0;
+}
+
+.navbar{
+	width: 100%;
+	height: 30px;
+}
+.navbar a{
+	display: inline-block;
+	float: right;
+	text-decoration: none;
+	padding: 7px;
+}
+.navbar.apps{
+	background-image: url("googleappscon.png");
+	background-size: 70px 120px;
+	background-position: -69px -854px;
+	height: 30px;
+	width: 30px;
+
+}
+.container{
+	width: 100%;
+	height: 150px;
+}
+#logo{
+	margin:150px auto 0;
+	height: 200px;
+	width: 600px;
+	background-image: url("google-new-logo.png");
+}
